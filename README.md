@@ -1,2 +1,2 @@
-# Curr-culo
-Criado como forma de aprendizado.
+# Curriculo
+Criado em HTML5 como forma de aprendizado.
